@@ -2,10 +2,10 @@
 
 ## Meta data
 
-* Regime: Full time
+* Regime: Full time (flexible working hours)
 * Experience Level: Not Applicable
 * Department: Operations
-* Location: London, United Kingdom
+* Location: London, United Kingdom (some remote work acceptable)
 * Where to Apply: [http://yld.breezy.hr](http://yld.breezy.hr)
 
 ## Overview
@@ -22,27 +22,26 @@ YLD! have offices in London and Lisbon and our customers are largely London-base
 
 ## Responsibilities
 
-* Detailed coordination of a complex operations of CEO, involving many people, facilities, or supplies.
-* Proactively deal with issues of CEO and in his absence using initiative and knowledge to bring resolution.
-* Heavy calendar management and email organization.
-* Perform administrative duties and functions requiring confidentiality, initiative, and sound decision-making.
+* Initiative coordination on behalf of the CEO, involving complex logistics and stakeholder management.
+* Proactively deal with issues of CEO and in his absence.
+* Calendar management and email organization.
+* Perform administrative duties that might require confidentiality.
 * Prepare agendas, make copies, set up rooms, order/pick up/layout refreshments, etc.
 * Organization and management of events for customers, clients, partners.
-* Collaborate well with other administrative staff.
-* Manage some travel - air/lodging/transportation, create and maintain itineraries for designated executives and process expense reports.
-* Produce all types of documents and presentations using the full desktop package, including preparation of materials in advance for regular key meetings.
+* Collaborate well with all executive staff.
+* Manage travel ,
+* Produce Documents, and presentations in preparation of meetings/briefings/etc.
 * Logistics for events run by the executive team.
 * Support the induction programmes of all new staff.
 * Maintain holiday and absence systems for team ensuring company policy is adhered to using the related software.
-* Provide information to other administrators/coordinators to assist in the maintenance of accurate year planner of key events, HR annual requirements, staff records, distribution lists, organization charts (these will now come from the software used if that is kept up to date so that would be the priority, contact lists, expenses, etc.)
-* Network with administrative support staff in other areas and work together to improve efficiency and remove duplication of effort.
+* Provide information to other administrators/coordinators to assist in the maintenance of accurate year planner of key events, HR annual requirements, staff records, distribution lists, organization charts.
 
-## Accountability:
+## Key Areas of Work
 
-* Efficient and effective capability of logistics.
-* Efficient and effective administration, and the provision of administrative support to CEO and leadership team.
-* Works with confidential information and requires a high degree of integrity.
-* Share best practice and departmental information with others and work together to solve issues.
+* Executive Support to the whole executive team
+* Personal Support to the CEO
+* Event Management
+* Office Management and Organization
 
 ## Ideal Profile
 
@@ -50,7 +49,11 @@ We are looking for talented individuals of high integrity that enjoy a certain l
 
 The ideal candidate will be proactive and a problem solver with the ability to prioritise workload on own initiative.
 
-Excellent organizational and prioritization skills are required.
+Excellent organizational, prioritization, and communication skills are required.
+
+Human Resources background is prefered.
+
+Ideally the candidate is seeking an opportunity to work with a dynamic, motivated executive team as a learning opportunity
 
 ## Our Offer
 
@@ -60,7 +63,6 @@ Our office culture is casual, fun and social, with an emphasis on education and 
 * 6 months fully paid maternity and paternity leave.
 * 3 months’ sick leave at 50% of salary.
 * 25 days holiday (excluding Public Holidays).
-* 2 months’ fully paid personal development leave.
 * Company Accounts: Uber, Airbnb, Zipcar.
 * £2k yearly allowance for Training/Conferences (though if cost is greater we may still consider it).
 
