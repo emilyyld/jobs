@@ -1,6 +1,6 @@
 # Job Descriptions
 
-Here are the jobs as posted in our job board
+Here are the jobs as posted in our job board. If you can't find updates jobs here please email jobs@yld.io.
 
 Please Find them listed as files above.
 
